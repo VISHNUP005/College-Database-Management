@@ -1,0 +1,33 @@
+.card12 {
+    margin-left: -100px;
+    margin-top: 50px;
+}
+
+.heading12 {
+    margin-top: 50px;
+}
+
+.para {
+    border: 2px solid black;
+    border-style: groove;
+    padding: 20px;
+}
+
+.body {
+    background-image: linear-gradient(to bottom, rgb(69, 235, 121), rgb(148, 148, 223), rgba(224, 224, 75, 0.817));
+}
+
+
+
+.placements {
+    font-family: cursive;
+}
+
+
+.para1 {
+    font-size: larger;
+}
+
+.abc {
+    background-color: grey;
+}
